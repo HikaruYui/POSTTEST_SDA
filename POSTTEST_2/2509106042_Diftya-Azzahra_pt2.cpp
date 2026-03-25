@@ -214,12 +214,12 @@ int main() {
     int pilihan;
     do {
         cout << "\n=== SISTEM INFORMASI KERETA API (GENAP) ===";
-        cout << "\n1. Tampil Jadwal (Pointer)";
+        cout << "\n1. Tampil Jadwal";
         cout << "\n2. Tambah Data Baru";
-        cout << "\n3. Cari Rute (Linear Search)";
-        cout << "\n4. Cari No Kereta (Jump Search)";
-        cout << "\n5. Urutkan Nama (Merge Sort)";
-        cout << "\n6. Urutkan Harga (Selection Sort)";
+        cout << "\n3. Cari Rute";
+        cout << "\n4. Cari No Kereta";
+        cout << "\n5. Urutkan Nama";
+        cout << "\n6. Urutkan Harga";
         cout << "\n0. Keluar";
         cout << "\nPilih: ";
         cin >> pilihan;
