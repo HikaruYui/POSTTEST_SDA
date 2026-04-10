@@ -504,8 +504,8 @@ int main() {
         cout << "\n4. Cari No Kereta";
         cout << "\n5. Urutkan Nama";
         cout << "\n6. Urutkan Harga";
-        cout << "\n7. Enqueue / Tambah Antrian Beli Tiket";
-        cout << "\n8. Dequeue / Proses Tiket";
+        cout << "\n7. Tambah Antrian Beli Tiket";
+        cout << "\n8. Proses Tiket";
         cout << "\n9. Pop Riwayat";
         cout << "\n10. Peek";
         cout << "\n11. Tampil Semua Antrian";
